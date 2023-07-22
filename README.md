@@ -9,7 +9,6 @@
 - [최희진](https://github.com/heejinnn)
 - [임태규](https://github.com/TaeKyuIm)
 - [조예림](https://github.com/J0YERIM)
-- [윤금재](https://github.com/YoonKeumJae)
 
 ### 진행 방식
 1. 매주 2장씩 각자 공부한 내용을 정리합니다.
