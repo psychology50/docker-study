@@ -6,7 +6,6 @@
 
 ### 스터디원
 - [양재서](https://github.com/psychology50)
-- [최희진](https://github.com/heejinnn)
 - [임태규](https://github.com/TaeKyuIm)
 - [조예림](https://github.com/J0YERIM)
 
