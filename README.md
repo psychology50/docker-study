@@ -7,6 +7,8 @@
 ### 스터디원
 - [양재서](https://github.com/psychology50)
 - [조예림](https://github.com/J0YERIM)
+- [임태규]()
+- [최희진]()
 
 ### 진행 방식
 1. 매주 2장씩 각자 공부한 내용을 정리합니다.
