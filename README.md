@@ -6,7 +6,6 @@
 
 ### 스터디원
 - [양재서](https://github.com/psychology50)
-- [임태규](https://github.com/TaeKyuIm)
 - [조예림](https://github.com/J0YERIM)
 
 ### 진행 방식
